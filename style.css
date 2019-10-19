@@ -1,0 +1,53 @@
+.top {
+    padding: 2%;
+    margin: auto;
+    font-size: 72px;
+    background-color: rgb(21, 40, 61);
+    color: whitesmoke;
+    text-align: center;
+    font-family: hack;
+}
+
+.icons {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    padding: 5px;
+    margin-left: 35%;
+}
+
+img {
+    width: 105px;
+    height: 99px;
+    border-radius: 50%;
+    border-style: outset;
+    border-width: 5px;
+    border-color: black;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.decider {
+    background-color: rgb(21, 40, 61);
+    color: whitesmoke;
+    font-family: hack;
+}
+
+.styling {
+    margin-left: 35%;
+}
+
+.output {
+    color: rgb(21, 40, 61);
+    font-family: hack;
+    font-size: 40px;
+    margin: auto;
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    border: inset 5px;
+    margin: auto;
+    text-align: center;
+}
