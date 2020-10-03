@@ -2,10 +2,11 @@
     padding: 2%;
     margin: auto;
     font-size: 72px;
-    background-color: rgb(21, 40, 61);
+    background-color: black;
     color: whitesmoke;
     text-align: center;
-    font-family: hack;
+    font-family: 'Epilogue', sans-serif;
+    padding-bottom: 5px;
 }
 
 .icons {
@@ -30,9 +31,9 @@ img {
 }
 
 .decider {
-    background-color: rgb(21, 40, 61);
-    color: whitesmoke;
-    font-family: hack;
+    color: black;
+    font-family: 'Epilogue', sans-serif;
+    padding-bottom: 10px;
 }
 
 .styling {
@@ -40,14 +41,18 @@ img {
 }
 
 .output {
-    color: rgb(21, 40, 61);
-    font-family: hack;
+    color: green;
+    font-family: 'Epilogue', sans-serif;
     font-size: 40px;
     margin: auto;
     width: 500px;
     height: 50px;
-    padding: 10px;
+    padding:10px;
     border: inset 5px;
     margin: auto;
     text-align: center;
+    border-color: black;
+}
+*{
+    background-color: white;
 }
